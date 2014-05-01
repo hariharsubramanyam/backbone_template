@@ -22,6 +22,7 @@ require.config({
         jquery: '../lib/jquery',
         underscore: '../lib/underscore',
         backbone: '../lib/backbone',
+		text: '../lib/require-text',
         bootstrap: '../../css/bootstrap/js/bootstrap'
     }
 });
